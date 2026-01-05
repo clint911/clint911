@@ -26,10 +26,13 @@ Indie Software Developer focused on building the next iteration of Software Syst
   
 ### 📊 Github Stats
 
-![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=clint911&show_icons=true&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clint911&theme=tokyonight)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clint911&theme=tokyonight)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clint911&theme=tokyonight)
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clint911&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=5&hide=php,lua,css)
 <details> 
   <summary><h3>👨‍💻 Clinton's Coding Journey</h3></summary>
 My programming journey began in early 2020, sparked by my fascination with Linux after reading The Hacker's Handbook. Later that year, I discovered C in my Intro to Programming class and explored C++ in 2021(while distro-hopping). While I appreciated the depth of these languages, I was drawn to Python's simplicity and spent much of my time scripting. In late 2021, I encountered Java in an advanced programming class, where its structured approach offered a reliable and consistent framework for problem-solving, resonating deeply with my values.<br />  
